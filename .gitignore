@@ -1,0 +1,17 @@
+# Executáveis
+*.exe
+*.out
+*.app
+punkt
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.log
